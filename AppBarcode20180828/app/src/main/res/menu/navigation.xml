@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/home"
+        android:icon="@drawable/ic_home_black_24dp"
+        android:title="@string/title_home" />
+
+    <item
+        android:id="@+id/Goods_Receipt"
+        android:icon="@drawable/ic_dashboard_black_24dp"
+        android:title="Goods Receipt" />
+
+    <item
+        android:id="@+id/Goods_Return"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Goods Return" />
+    <item
+        android:id="@+id/Goods_Packaging"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Goods Packaging" />
+    <item
+        android:id="@+id/Inventory_Count"
+        android:icon="@drawable/ic_notifications_black_24dp"
+        android:title="Physical Inventory Count" />
+
+</menu>
