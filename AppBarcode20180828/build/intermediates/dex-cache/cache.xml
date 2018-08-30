@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="D:\project_ERP\AppBarcode20180828\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ee2d3a5865014ba3b4eeff617f5b119544ae0f91">
+        <dex dex="D:\project_ERP\AppBarcode20180828\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1ffbf6d09a09d4f9793ec5eb91d6779a9991ec9c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Win\.android\build-cache\1cecd8f8b72ca8213db811ffaa6eb79ac0570845\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="ceda0650ec225b9c0143ed8ff1c010d4e621a423">
+        <dex dex="D:\project_ERP\AppBarcode20180828\app\build\intermediates\pre-dexed\debug\classes_5f01ffcc8fc323cfcf9dfaba2e47d1f0e5761029.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Win\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.2.1\2287494d4f5f9f3a9a2bb6980e3f32053721b315\core-3.2.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="2287494d4f5f9f3a9a2bb6980e3f32053721b315">
+        <dex dex="D:\project_ERP\AppBarcode20180828\app\build\intermediates\pre-dexed\debug\core-3.2.1_f4d9d2d39e0c3875983e4650455022ea6a83d753.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Win\.android\build-cache\96922d1582ffd5e281979180e88debbe4f09583d\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="26.0.2"
+        sha1="760ff0a866a9b3b7fe4a91cfe6439d9dc93cea7c">
+        <dex dex="D:\project_ERP\AppBarcode20180828\app\build\intermediates\pre-dexed\debug\classes_b7620bd48436f3f53d47ca2510d05e4a303138d1.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="D:\project_ERP\AppBarcode20180828\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="26.0.2"
+        sha1="3be78ebc2706b2e1fe2f12d5726887a92d6c183b">
+        <dex dex="D:\project_ERP\AppBarcode20180828\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_012346ef9a84c36a627a3472a0f91e8647efff18\classes.dex" />
+    </item>
+
+</items>
