@@ -34,7 +34,6 @@
         <activity
             android:name="com.example.win.appbarcode20180828.menubar"
             android:label="@string/title_activity_menubar" />
-        <activity android:name="com.example.win.appbarcode20180828.scangoods_recript" />
         <activity android:name="com.example.win.appbarcode20180828.scangoods_receipt" />
         <activity android:name="com.example.win.appbarcode20180828.testscan" />
     </application>

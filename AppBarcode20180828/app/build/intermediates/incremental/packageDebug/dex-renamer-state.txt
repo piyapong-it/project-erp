@@ -1,4 +1,4 @@
-#Wed Aug 29 23:38:51 ICT 2018
+#Thu Aug 30 15:52:58 ICT 2018
 base.0=D\:\\project_ERP\\AppBarcode20180828\\app\\build\\intermediates\\transforms\\dex\\debug\\folders\\1000\\10000\\instant-run_012346ef9a84c36a627a3472a0f91e8647efff18
 renamed.1=classes2.dex
 renamed.0=classes.dex
